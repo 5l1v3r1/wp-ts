@@ -20,3 +20,4 @@ $ cd wp-ts
   Target website with http or https
 $ python2 wp-ts.py sc-name.html list-web.txt
 ```
+![ts](https://user-images.githubusercontent.com/65480013/88470382-f3d84d00-cf25-11ea-8330-0dfb25ddf7b1.JPG)
